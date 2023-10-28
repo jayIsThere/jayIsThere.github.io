@@ -18,11 +18,13 @@ n % 2 == 0
 ```
 
 Let c be a variable of type char. Implement an expression using c that has the following properties:
+
     • If c contains a letter between a and z, the value of the expression should be the corresponding
     uppercase letter.
     • If c contains a letter between A and Z, the value of the expression should be the corresponding
     lowercase letter.
     • If neither of these cases is true, the value of the expression should be the value of c.
+    
 The char data type represents characters that are internally encoded as integers between 0 and 65535.
 You can perform arithmetic operations on the codes (and thus indirectly on the characters) and
 you can compare them, for example, using <= or >=. The codes of the characters a to z are consecutive
