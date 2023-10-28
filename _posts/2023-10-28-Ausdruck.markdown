@@ -6,7 +6,7 @@ categories: EPR
 ---
 The task 1:
 
-$$-(((3 * 7) * 2) - 4 * 3))$$
+    -(((3 * 7) * 2) - 4 * 3))
 
 How can we describe this as:
 
@@ -14,13 +14,13 @@ How can we describe this as:
 
 The task 2:
 
-$$!(((3 + 6) < 5) || ((4 * 5) > (25 - (2 * 2)))) || (6 < 49 / 7))$$
+    !(((3 + 6) < 5) || ((4 * 5) > (25 - (2 * 2)))) || (6 < 49 / 7))
 
 ![Screenshot_20231028_143050_Samsung Notes](https://github.com/jayIsThere/jayIsThere.github.io/assets/149234876/9257da64-999f-4653-8d92-110f6eb426a9)
 
 And this is equivalent to:
 
-$$!(3 + 6 < 5 || 4 * 5 > 25 - 2 * 2 || 6 < 49 / 7)$$
+    $$!(3 + 6 < 5 || 4 * 5 > 25 - 2 * 2 || 6 < 49 / 7)$$
 
 The task 3:
 
