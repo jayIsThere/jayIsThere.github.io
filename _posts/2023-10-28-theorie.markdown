@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "Theorie für LDS"
+date:   2023-10-28 10:30:00 +0530
+categories: LDS
+---
+
+1. Wie kann man die Zahlen vertauschen in der TM?
+
+        Falls Zustand == z1 und
+        Zeichen unter Schreib/Lesekopf == 0,
+        dann schreibe 1,
+        gehe in den Zustand z1 und
+        bewege dich ein Feld nach rechts.
+
+Kurz:
+
+        (z1,0) > (1,z1,R)
+        (z1,1) > (0,z1,R)
+        (z1,_) > (_,ende,L)
+        
+2. Ist PCP(Post correspondence problem) lösbar?
+
+Eigentlich nicht, aber nur in bestimmten Bedigungen ist es lösbar.
+Das heißt, PCP ist semi-entscheidbar.
+
+3. Was ist Berechenbarkeit?
+
+Eine Funktion f heißt berechenbar, wenn es einen Algorithmus, also eine TM, gibt, die für jedes x ∈ N sicher in endlicher Zeit den Funktionswert y = f(x) bestimmt.
+
+4. Ist 'fleissige Biber' lösbar?
+
+Eigentlich nicht, außer bb(1). (bb(1) ist sicherlich 1)
+
