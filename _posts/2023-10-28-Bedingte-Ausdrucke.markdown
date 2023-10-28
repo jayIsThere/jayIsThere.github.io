@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Bedingte Ausdrücke"
-date:   2023-10-28 10:28:36 +0530
+date:   2023-10-28 10:28:34 +0530
 categories: EPR
 ---
 

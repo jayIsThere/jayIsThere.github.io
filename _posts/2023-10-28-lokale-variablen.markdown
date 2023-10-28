@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Lokale Variablen"
-date:   2023-10-28 10:28:36 +0530
+date:   2023-10-28 10:28:32 +0530
 categories: EPR
 ---
 

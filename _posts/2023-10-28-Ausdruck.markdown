@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Einführung in Ausdrücke"
-date:   2023-10-28 10:28:36 +0530
+date:   2023-10-28 10:28:30 +0530
 categories: EPR
 ---
 The task 1:
