@@ -12,11 +12,11 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-    navigation:
-      - title: Study in colleage
-        url: "/study"
-      - title: EPR
-        url: "/study/EPR"
+  navigation:
+    - title: Study in colleage
+      url: "/study"
+    - title: EPR
+      url: "/study/EPR"
 
   name: Jaehan Kim
   tagline: CS Student
