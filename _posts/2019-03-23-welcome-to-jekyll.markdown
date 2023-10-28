@@ -11,7 +11,7 @@ const Razorpay = require('razorpay');
 
 let rzp = Razorpay({
 	key_id: 'KEY_ID',
-	secret: 'name'
+	secret: 'ja'
 });
 
 // capture request
