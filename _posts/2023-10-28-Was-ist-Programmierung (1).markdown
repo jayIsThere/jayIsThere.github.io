@@ -10,7 +10,7 @@ The task 1:
 
 How can we describe this as:
 
-![portfolio](assets/myPhoto.jpg)
+![myPhoto](https://github.com/jayIsThere/jayIsThere.github.io/assets/149234876/a20964a9-ac7b-489c-a7b4-66885a28df24)
 
 The task 2:
 
