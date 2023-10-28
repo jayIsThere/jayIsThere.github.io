@@ -6,13 +6,33 @@ categories: EPR
 ---
 The task 1:
 
-            -(((3 * 7) * 2) - 4 * 3))
+$$-(((3 * 7) * 2) - 4 * 3))$$
 
 How can we describe this as:
 
-![myPhoto](https://github.com/jayIsThere/jayIsThere.github.io/assets/149234876/a20964a9-ac7b-489c-a7b4-66885a28df24)
+![Screenshot_20231028_143032_Samsung Notes](https://github.com/jayIsThere/jayIsThere.github.io/assets/149234876/61e03287-6bf1-409f-94bc-e70aa3c17d23)
 
 The task 2:
 
-...
+$$!(((3 + 6) < 5) || ((4 * 5) > (25 - (2 * 2)))) || (6 < 49 / 7))$$
+
+![Screenshot_20231028_143050_Samsung Notes](https://github.com/jayIsThere/jayIsThere.github.io/assets/149234876/9257da64-999f-4653-8d92-110f6eb426a9)
+
+And this is equivalent to:
+
+$$!(3 + 6 < 5 || 4 * 5 > 25 - 2 * 2 || 6 < 49 / 7)$$
+
+The task 3:
+
+$$12 + 5 + 7 - 3 * 5$$
+
+![Screenshot_20231028_143100_Samsung Notes](https://github.com/jayIsThere/jayIsThere.github.io/assets/149234876/88f6b2ef-53d5-474c-ad56-07c0e7aa23ea)
+
+The task 4:
+
+```java
+a = a + b; // a = a + b;
+b = a - b; // b = (a + b) - b;
+a = a - b; // a = (a + b) - ((a + b) - b);
+```
 
