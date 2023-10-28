@@ -10,7 +10,7 @@ The task 1:
 
 How can we describe this as:
 
-![ex_screenshot](assets/portfolio.png)
+![ex_screenshot]("assets/portfolio.png")
 
 The task 2:
 
