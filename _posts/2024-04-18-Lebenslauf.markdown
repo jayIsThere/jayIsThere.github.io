@@ -1,6 +1,4 @@
 
-# Lebenslauf
-
 ## Zusammenfassung
 
 - **Name:** Jaehan Kim
