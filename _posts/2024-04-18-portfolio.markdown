@@ -2,7 +2,7 @@
 layout: post
 title:  "Lebenslauf"
 date:   2024-04-18 10:30:59 +0530
-categories: Lebenslauf
+categories: LDS
 ---
 
 # Lebenslauf
