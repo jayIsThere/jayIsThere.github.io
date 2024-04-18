@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Implikation, DNF, CNF"
-date:   2023-10-28 10:30:01 +0530
+title:  "Test"
+date:   2023-10-28 10:30:59 +0530
 categories: LDS
 ---
 
