@@ -20,6 +20,6 @@
 
 ## Fähigkeiten
 
-- [Java]: die Grundlagen der Java Sprache
-- [Python]: die Grundlagen der Python Sprache
-- [Webentwicklung]: HTML, CSS und JavaScript
+- [Java] - die Grundlagen der Java Sprache
+- [Python] - die Grundlagen der Python Sprache
+- [Webentwicklung] - HTML, CSS und JavaScript
