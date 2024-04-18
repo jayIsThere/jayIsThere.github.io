@@ -1,9 +1,3 @@
----
-layout: post
-title:  "Lebenslauf"
-date:   2023-10-28 10:58:33 +0530
-categories: EPR
----
 
 # Lebenslauf
 
