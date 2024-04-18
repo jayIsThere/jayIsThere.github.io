@@ -15,21 +15,22 @@ categories: EPR
 
 ## Ausbildung
 
-- [Abschluss/Qualifikation Name] - [Schule/Institution Name] (Jahr)
-- [Abschluss/Qualifikation Name] - [Schule/Institution Name] (Jahr)
+- [Osaka Universität] - [Bachelor / kulturelle Anthropologie] (2014-2018)
+- [Westfälische Hochschule] - [Bachelor / Informatik] (2023-heute)
 
 ## Berufserfahrung
 
-1. **[Unternehmen/Institution Name]** - *Position* (Jahr)
-   - Erfolge oder Verantwortlichkeiten kurz beschreiben.
+1. **[Clip GmbH]** - *Übersetzer* (2014)
    
-2. **[Unternehmen/Institution Name]** - *Position* (Jahr)
-   - Erfolge oder Verantwortlichkeiten kurz beschreiben.
+2. **[Sakewiz GmbH]** - *Übersetzer* (2019)
+
+3. **[Daewon]** - *Oversees project team* (2020)
 
 ## Fähigkeiten
 
-- [Fähigkeit/Sprache/Tool Name]: Beschreibung des Kenntnisstandes oder der Erfahrung
-- [Fähigkeit/Sprache/Tool Name]: Beschreibung des Kenntnisstandes oder der Erfahrung
+- [Java]: die Grundlagen der Java Sprache
+- [Python]: die Grundlagen der Python Sprache
+- [Webentwicklung]: HTML, CSS und JavaScript
 
 ---
 
@@ -37,10 +38,10 @@ categories: EPR
 
 ## Projekt 1
 
-- **Projektname:** [Projektname]
-- **Beschreibung:** Kurze Beschreibung des Projekts
-- **Rolle:** Eigene Rolle beschreiben
-- **Technologie-Stack:** Verwendete Technologien
+- **Projektname:** [Time Weather Widget]
+- **Beschreibung:** eine simple Androidapp, die die Zeit mit dem Wetter zeigt.
+- **Technologie-Stack:** Java
+- **URL:** [Hier](https://github.com/jayIsThere/TimeWeatherWidget)
 
 ## Projekt 2
 
