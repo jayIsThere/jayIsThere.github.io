@@ -1,31 +1,50 @@
 ---
 layout: page
-title:  "Test"
-date:   2023-10-28 10:30:59 +0530
-categories: LDS
+title:  "Lebenslauf"
+date:   2024-04-18 10:30:59 +0530
+categories: Lebenslauf
 ---
 
-1. Was ist Implikation?
+# Lebenslauf
 
-Ein Beispiel..
+## Zusammenfassung
 
-Wenn es regnet, ist die Straße nass.
+- **Name:** Jaehan Kim
+- **E-Mail:** jaehan.kim@studmail.w-hs.de
+- **Adresse:** Marl
 
-(Situation A) Straße ist nass.
+## Ausbildung
 
-Hat es geregnet? - Nein, nicht unbedingt.
+- [Abschluss/Qualifikation Name] - [Schule/Institution Name] (Jahr)
+- [Abschluss/Qualifikation Name] - [Schule/Institution Name] (Jahr)
 
-    Regen → nass (wenn..., dann...)
+## Berufserfahrung
 
-Regen, nass = true
-Regen, trocken = false
-kein Regen, nass = true
-kein Regen, trocken = true
-        
-2. DNF (Disjunktive Normalform)
+1. **[Unternehmen/Institution Name]** - *Position* (Jahr)
+   - Erfolge oder Verantwortlichkeiten kurz beschreiben.
+   
+2. **[Unternehmen/Institution Name]** - *Position* (Jahr)
+   - Erfolge oder Verantwortlichkeiten kurz beschreiben.
 
-Die Folge von true wird mit OR verknüpft. 
+## Fähigkeiten
 
-3. CNF (Konjunktive Normalform)
+- [Fähigkeit/Sprache/Tool Name]: Beschreibung des Kenntnisstandes oder der Erfahrung
+- [Fähigkeit/Sprache/Tool Name]: Beschreibung des Kenntnisstandes oder der Erfahrung
 
-Die Folge von false wird mit AND verknüpft.
+---
+
+# Portfolio
+
+## Projekt 1
+
+- **Projektname:** [Projektname]
+- **Beschreibung:** Kurze Beschreibung des Projekts
+- **Rolle:** Eigene Rolle beschreiben
+- **Technologie-Stack:** Verwendete Technologien
+
+## Projekt 2
+
+- **Projektname:** [Projektname]
+- **Beschreibung:** Kurze Beschreibung des Projekts
+- **Rolle:** Eigene Rolle beschreiben
+- **Technologie-Stack:** Verwendete Technologien
