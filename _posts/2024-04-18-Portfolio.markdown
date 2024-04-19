@@ -13,7 +13,11 @@
 
 ## Projekt 2
 
-- **Projektname:** [Projektname]
-- **Beschreibung:** Kurze Beschreibung des Projekts
-- **Rolle:** Eigene Rolle beschreiben
-- **Technologie-Stack:** Verwendete Technologien
+- **Projektname:** [Math Game]
+- **Beschreibung:** eine simple Androidapp, die ein Mathe Quiz anbietet.
+- **Technologie-Stack:** Java
+- **URL:** https://github.com/jayIsThere/mathQuiz
+
+<img src="https://github.com/jayIsThere/mathQuiz/blob/master/Screenshot_1.png" width="200" height="400" />
+<img src="https://github.com/jayIsThere/mathQuiz/blob/master/Screenshot_2.png" width="200" height="400" />
+<img src="https://github.com/jayIsThere/mathQuiz/blob/master/Screenshot_3.png" width="200" height="400" />
