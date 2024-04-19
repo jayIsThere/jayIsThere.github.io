@@ -16,7 +16,7 @@
 - **Projektname:** [Math Game]
 - **Beschreibung:** eine simple Androidapp, die ein Mathe Quiz anbietet.
 - **Technologie-Stack:** Java
-- **URL:** https://github.com/jayIsThere/mathQuiz
+- **URL:** [Hier](https://github.com/jayIsThere/mathQuiz)
 
 <img src="https://github.com/jayIsThere/mathQuiz/blob/master/Screenshot_1.png" width="200" height="400" />
 <img src="https://github.com/jayIsThere/mathQuiz/blob/master/Screenshot_2.png" width="200" height="400" />
