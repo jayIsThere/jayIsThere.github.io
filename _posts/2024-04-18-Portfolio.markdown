@@ -14,8 +14,8 @@
 ## Projekt 2: Math Game
 
 - **Projektname:** [Math Game]
-- **Beschreibung:** Diese Android-App bietet ein unterhaltsames Mathe-Quiz, das darauf abzielt, Benutzern dabei zu helfen, ihre mathematischen Fähigkeiten zu verbessern. Das Spiel bietet eine Vielzahl von Schwierigkeitsstufen und Herausforderungen, um Benutzer zu engagieren und zu motivieren.
-- **Technologie-Stack:** Das Spiel wurde mit Java entwickelt und verwendet verschiedene Mathematik-Algorithmen zur Generierung von Fragen und Antworten.
+- **Beschreibung:** Diese Android-App ist ein interaktives Quiz-Spiel, das auf JSON-basierten Fragen und Antworten basiert. Sie bietet eine unterhaltsame Möglichkeit, das Wissen in verschiedenen Themenbereichen zu testen. Die Flexibilität des Systems ermöglicht es, Quizfragen zu beliebigen Themenbereichen hinzuzufügen, was es zu einer vielseitigen Lernplattform macht. Während das Projekt als Mathematik-Quiz begann, kann es leicht an verschiedene Fachgebiete angepasst werden, um eine breitere Zielgruppe anzusprechen.
+- **Technologie-Stack:** Das Spiel wurde mit Java entwickelt und nutzt JSON-Dateien zur Speicherung und Abrufung von Quizfragen und Antworten.
 - **URL:** [Hier](https://github.com/jayIsThere/mathQuiz)
 
 <img src="https://github.com/jayIsThere/mathQuiz/raw/master/Screenshot_1.png" width="200" height="400" />
