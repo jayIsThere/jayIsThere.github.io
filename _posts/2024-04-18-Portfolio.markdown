@@ -21,3 +21,23 @@
 <img src="https://github.com/jayIsThere/mathQuiz/raw/master/Screenshot_1.png" width="200" height="400" />
 <img src="https://github.com/jayIsThere/mathQuiz/raw/master/Screenshot_2.png" width="200" height="400" />
 <img src="https://github.com/jayIsThere/mathQuiz/raw/master/Screenshot_3.png" width="200" height="400" />
+
+
+## Projekt 3: Pomodoro Timer
+
+- **Projektname:** [Pomodoro Timer]
+- **Beschreibung:** Dieser Pomodoro-Timer ist eine einfache Python-Anwendung, die das Pomodoro-Technik-Prinzip implementiert, um Arbeits- und Pausenintervalle zu verwalten. Er ermöglicht es Benutzern, produktiver zu arbeiten, indem sie ihre Zeit in Intervallen organisieren.
+- **Technologie-Stack:** Die Anwendung wurde in Python entwickelt und verwendet das Tkinter-Modul für die Benutzeroberfläche.
+- **URL:** [Hier](https://github.com/jayIsThere/pomodoro)
+
+<img src="https://github.com/jayIsThere/pomodoro/raw/main/screenshot.png" width="400" height="400" />
+
+
+## Projekt 4: Password Manager
+
+- **Projektname:** [Password Manager]
+- **Beschreibung:** Der Password Manager ist eine Python-Anwendung, die Benutzern hilft, ihre Passwörter sicher zu verwalten. Es ermöglicht das Generieren starker Passwörter und das Speichern von Anmeldedaten für verschiedene Websites in einer verschlüsselten Datei.
+- **Technologie-Stack:** Die Anwendung wurde in Python entwickelt und verwendet das Tkinter-Modul für die Benutzeroberfläche sowie das json-Modul für die Datenverwaltung.
+- **URL:** [Hier](https://github.com/jayIsThere/password_manager)
+
+<img src="https://github.com/jayIsThere/password_manager/raw/main/screenshot_password.png" width="400" height="400" />
