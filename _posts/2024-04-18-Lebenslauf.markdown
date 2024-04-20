@@ -24,5 +24,15 @@
 ## Fähigkeiten
 
 - [Java] - Fundamentale Kenntnisse der Java-Programmiersprache, angewandt in [hier](https://github.com/jayIsThere/TimeWeatherWidget).
-- [Python] - Grundlegende Kenntnisse der Python-Programmiersprache.
+- [Python] - Grundlegende Kenntnisse der Python-Programmiersprache, angewandt in [hier](https://github.com/jayIsThere/password_manager).
 - [Webentwicklung] - Erfahrung in der Entwicklung von Webanwendungen mit HTML, CSS und JavaScript.
+
+Zusätzlich habe ich Kurse in HTML, CSS und JavaScript absolviert und Zertifikate erhalten:
+
+<img src="/assets/screenshot_html_css_javascript.png" alt="HTML Kurszertifikat" width="300" height="auto">
+
+## Weitere Projekte
+
+Weitere Projekte können Sie unter folgendem Link einsehen:
+
+- [GitHub Profil](https://github.com/jayIsThere)
