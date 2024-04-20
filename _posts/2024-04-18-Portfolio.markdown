@@ -41,3 +41,44 @@
 - **URL:** [Hier](https://github.com/jayIsThere/password_manager)
 
 <img src="https://github.com/jayIsThere/password_manager/raw/main/screenshot_password.png" width="400" height="400" />
+
+
+## Projekt 5: Flash Card
+
+- **Projektname:** [Flash Card]
+- **Beschreibung:** Die Flash Card-Anwendung ist ein interaktives Lernwerkzeug, das Benutzern hilft, neue Informationen zu lernen und zu behalten. Es ermöglicht das Erstellen von Karteikarten mit Fragen auf der Vorderseite und Antworten auf der Rückseite, um das Wissen in verschiedenen Themenbereichen zu vertiefen.
+- **Technologie-Stack:** Die Anwendung wurde mit Python entwickelt und verwendet das Tkinter-Modul für die Benutzeroberfläche sowie das json-Modul für die Speicherung der Karten.
+- **URL:** [Hier](https://github.com/jayIsThere/flash-card)
+
+<img src="https://github.com/jayIsThere/flash-card/raw/main/screenshot_flash1.png" width="400" height="400" />
+<img src="https://github.com/jayIsThere/flash-card/raw/main/screenshot_flash2.png" width="400" height="400" />
+
+## Projekt 6: The US States Quiz
+
+- **Projektname:** [The US States Quiz]
+- **Beschreibung:** Das US-Staaten-Quiz ist eine interaktive Lernanwendung, die Benutzern ermöglicht, ihr Wissen über die US-Bundesstaaten und deren Hauptstädte zu testen. Es bietet eine unterhaltsame Möglichkeit, Geografiekenntnisse zu verbessern und Fakten über die Vereinigten Staaten zu lernen.
+- **Technologie-Stack:** Die Anwendung wurde mit Python entwickelt und verwendet das Tkinter-Modul für die Benutzeroberfläche sowie das json-Modul für die Speicherung der Fragen und Antworten.
+- **URL:** [Hier](https://github.com/jayIsThere/us-states-quiz)
+
+<img src="https://github.com/jayIsThere/us-states-quiz/raw/main/screenshot_us1.png" width="400" height="400" />
+<img src="https://github.com/jayIsThere/us-states-quiz/raw/main/screenshot_us2.png" width="400" height="400" />
+<img src="https://github.com/jayIsThere/us-states-quiz/raw/main/screenshot_us3.png" width="400" height="400" />
+
+## Projekt 7: Pong Game
+
+- **Projektname:** [Pong Game]
+- **Beschreibung:** Das Pong-Spiel ist eine klassische Arcade-Anwendung, die Benutzern ermöglicht, das beliebte Ping-Pong-Spiel auf ihrem Computer zu spielen. Es bietet eine unterhaltsame Möglichkeit, Geschicklichkeit und Reaktionsfähigkeit zu verbessern.
+- **Technologie-Stack:** Die Anwendung wurde mit Python entwickelt und verwendet das Turtle-Modul für die Erstellung von Grafiken und die Steuerung der Spiellogik.
+- **URL:** [Hier](https://github.com/jayIsThere/pong-game)
+
+<img src="https://github.com/jayIsThere/pong-game/raw/main/pong1.png" width="400" height="400" />
+
+
+## Projekt 8: Snake Game
+
+- **Projektname:** [Snake Game]
+- **Beschreibung:** Das Snake-Spiel ist ein klassisches Videospiel, bei dem der Spieler eine Schlange steuert, die sich durch ein Spielfeld bewegt und Nahrung frisst, um länger zu werden. Es bietet eine unterhaltsame Möglichkeit, Reaktionsfähigkeit und strategisches Denken zu verbessern.
+- **Technologie-Stack:** Die Anwendung wurde mit Python entwickelt und verwendet das Turtle-Modul für die Erstellung von Grafiken und die Steuerung der Spiellogik.
+- **URL:** [Hier](https://github.com/jayIsThere/snake_game)
+
+<img src="https://github.com/jayIsThere/snake_game/raw/main/screenshot_turtle1.png" width="400" height="400" />
